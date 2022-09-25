@@ -10,3 +10,5 @@ Homestead.json
 Homestead.yaml
 npm-debug.log
 yarn-error.log
+database/migrations/2014_10_12_100000_create_password_resets_table.php
+database/migrations/2022_09_25_113454_create_trainors_table.php
